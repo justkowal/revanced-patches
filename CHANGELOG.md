@@ -1,3 +1,21 @@
+# [2.16.0](https://github.com/justkowal/revanced-patches-sponsorblock/compare/v2.15.0...v2.16.0) (2022-07-16)
+
+
+### Bug Fixes
+
+* `sponsorblock-resource-patch` ([86f992e](https://github.com/justkowal/revanced-patches-sponsorblock/commit/86f992e3dbe89c9b3425f6754995b22c3931e5ab))
+* broken fingerprints ([5eb990c](https://github.com/justkowal/revanced-patches-sponsorblock/commit/5eb990c162b2f92f7d4bb3ce7af969d0edba0e64))
+
+
+### Features
+
+* add `Name` annotation to `sponsorblock-resource-patch` ([b0485be](https://github.com/justkowal/revanced-patches-sponsorblock/commit/b0485bea3c257d7855b19a24bb30ef466f158ec0))
+* general fixes on `sponsorblock` patch ([02c1a1f](https://github.com/justkowal/revanced-patches-sponsorblock/commit/02c1a1fb6832c3b489acc54613caeec0a656cf7e))
+* migrate to breaking changes of patcher ([a116852](https://github.com/justkowal/revanced-patches-sponsorblock/commit/a11685263fb2274c67684258e73c5247502cb010))
+* more fixes on `sponsorblock` patch ([d2c344f](https://github.com/justkowal/revanced-patches-sponsorblock/commit/d2c344fa7c53d18208bcd6ef62fd76848df5d84d))
+* partial `sponsorblock` patch ([97eb335](https://github.com/justkowal/revanced-patches-sponsorblock/commit/97eb335a562a286c5fe064b7118fa9420328ae2f))
+* update `sponsorblock` patch to 17.26.35 ([2745797](https://github.com/justkowal/revanced-patches-sponsorblock/commit/27457976a24a88fbd1aeba914149338988761553))
+
 # [2.15.0](https://github.com/revanced/revanced-patches/compare/v2.14.1...v2.15.0) (2022-07-16)
 
 
